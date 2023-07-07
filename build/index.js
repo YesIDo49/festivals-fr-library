@@ -1,3 +1,5 @@
 const getFestivals = require('../index');
 
-console.log(getFestivals())
+(async() => {
+    console.log(await getFestivals())
+})();

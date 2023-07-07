@@ -1,7 +1,7 @@
 {
   "name": "festivals-fr-library",
-  "version": "1.0.0",
-  "description": "A library that will get every festival in Ile-de-France",
+  "version": "1.0.1",
+  "description": "A library that will get every French winter festival",
   "main": "index.js",
   "scripts": {
     "test": "jest"

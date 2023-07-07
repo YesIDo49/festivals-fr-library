@@ -1,7 +1,7 @@
 const getFestivals = require('./index');
 
-test('it should return an integer', () => {
-    const festivals = getFestivals();
-    // expect(number).toBeGreaterThanOrEqual(0);
-    // expect(number).toBeLessThanOrEqual(100);
+test("the array should not be empty", async() => {
+    const festivals = await getFestivals();
+    expect(festivals).not.toBeNull();
+    expect(festivals).toBeInstanceOf(Array);
 })
