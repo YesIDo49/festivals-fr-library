@@ -1,4 +1,5 @@
 # Get French winter festivals
+by Mehdi AL SID CHEIKH
 
 The purpose of this library is to get every winter festival in France. 
 You will be able to get their name, their debut date and ending date, the location and the type of the festival.
