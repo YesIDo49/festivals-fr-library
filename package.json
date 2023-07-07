@@ -1,0 +1,26 @@
+{
+  "name": "festivals-fr-library",
+  "version": "1.0.0",
+  "description": "A library that will get every festival in Ile-de-France",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YesIDo49/festivals-fr-library.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YesIDo49/festivals-fr-library/issues"
+  },
+  "homepage": "https://github.com/YesIDo49/festivals-fr-library#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "jest": "^29.6.1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.0.0"
+  }
+}
